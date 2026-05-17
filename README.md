@@ -1,4 +1,4 @@
-# p# AI Solution Design for Telecom Customer Churn Prediction
+# AI Solution Design for Telecom Customer Churn Prediction
 
 ## Project Overview
 This project presents an AI-powered solution for predicting customer churn in the telecom industry. The goal is to identify customers who are likely to discontinue telecom services and help businesses take proactive retention actions.
